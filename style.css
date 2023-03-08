@@ -201,6 +201,7 @@ li {
     opacity: 1;
     padding: 1rem;
     border-radius: 16px;
+    overflow-y: auto;
   }
 
   .modal-project-snapshot {
